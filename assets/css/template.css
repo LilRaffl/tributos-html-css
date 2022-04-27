@@ -1,0 +1,74 @@
+h2{
+    text-align: center;
+    color: rgb(253, 253, 253);
+    text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
+}
+  
+#title{
+    text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
+}
+
+h1,
+#legenda{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+  
+header p{
+text-align: center;
+}
+  
+main {
+padding-top: 1px;
+border: 1px solid invisible;
+background: linear-gradient(rgb(201, 200, 198), rgb(134, 133, 133), rgb(0, 0, 0), white);
+}
+  
+header p {
+font-family: 'Khula', sans-serif;
+font-size: 20px;
+font-weight: 400;
+}
+
+#img-central  {
+font-size: 1.2em;
+font-weight: 600;
+margin-top: 9px;
+}
+  
+article {
+background:url("../images/fundo.png");
+border: 1px solid transparent;
+height: 100%;
+color:rgb(255, 255, 255);
+}
+
+#informação{
+font-size: 1em;
+
+}
+  
+li {
+font-weight: 400;
+font-size: 20px;
+}
+  
+img {
+max-width: 100%;
+display: block;
+height: auto;
+margin: 0 auto;
+}
+footer {
+border: 1px solid transparent;
+background: #888880;
+height: 100%;
+font-weight: 600;
+display: flex;
+justify-content:center;
+font-size: 14px;
+}
+
+@media (max-width: 785px) {
+    
+}
